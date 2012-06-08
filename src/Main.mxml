@@ -5,4 +5,5 @@
 	<fx:Declarations>
 		<!-- 非ビジュアルエレメント (サービス、値オブジェクトなど) をここに配置 -->
 	</fx:Declarations>
+	<s:Button label="test"/>
 </s:WindowedApplication>
